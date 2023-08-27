@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://near-berlin.de/sitemap.xml
+Sitemap: https://near-berlin.de/sitemap.xml
